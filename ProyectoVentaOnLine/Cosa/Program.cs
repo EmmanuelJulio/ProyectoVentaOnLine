@@ -6,7 +6,7 @@ namespace Cosa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Worly56556y5y!");
         }
     }
 }
