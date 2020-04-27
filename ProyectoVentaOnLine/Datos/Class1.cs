@@ -13,5 +13,10 @@ namespace Datos
         {
             throw new NotImplementedException();
         }
+
+        public void David()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
