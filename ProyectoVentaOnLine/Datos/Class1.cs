@@ -9,5 +9,9 @@ namespace Datos
         {
             throw new NotImplementedException();
         }
+        public void Actualizate()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
